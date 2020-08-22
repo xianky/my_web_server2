@@ -1,0 +1,185 @@
+2020-08-20 17:40:30.290103 [info]deal with the client(192.168.91.1)
+2020-08-20 17:40:30.290174 [info]read adjust timer once
+2020-08-20 17:40:30.297426 [info]send data to the client(192.168.91.1)
+2020-08-20 17:40:30.297474 [info]write adjust timer once
+2020-08-20 17:40:37.818330 [info]deal with the client(192.168.91.1)
+2020-08-20 17:40:37.818418 [info]read adjust timer once
+2020-08-20 17:40:57.473502 [info]deal with the client(192.168.91.1)
+2020-08-20 17:40:57.473549 [info]read adjust timer once
+2020-08-20 17:40:57.473869 [info]send data to the client(192.168.91.1)
+2020-08-20 17:40:57.473948 [info]write adjust timer once
+2020-08-20 17:40:57.491050 [info]deal with the client(192.168.91.1)
+2020-08-20 17:40:57.491122 [info]read adjust timer once
+2020-08-20 17:40:57.491895 [info]send data to the client(192.168.91.1)
+2020-08-20 17:40:57.491953 [info]write adjust timer once
+2020-08-20 17:41:14.110481 [info]close fd 8
+2020-08-20 18:10:51.948471 [info]deal with the client(192.168.91.1)
+2020-08-20 18:10:51.948588 [info]read adjust timer once
+2020-08-20 18:10:51.949817 [info]send data to the client(192.168.91.1)
+2020-08-20 18:10:51.949967 [info]write adjust timer once
+2020-08-20 18:11:06.745342 [info]close fd 8
+2020-08-20 18:13:21.317843 [info]deal with the client(192.168.91.1)
+2020-08-20 18:13:21.317918 [info]read adjust timer once
+2020-08-20 18:13:21.318181 [info]send data to the client(192.168.91.1)
+2020-08-20 18:13:21.318228 [info]write adjust timer once
+2020-08-20 18:13:21.343074 [info]deal with the client(192.168.91.1)
+2020-08-20 18:13:21.343160 [info]read adjust timer once
+2020-08-20 18:13:21.353723 [info]send data to the client(192.168.91.1)
+2020-08-20 18:13:21.353791 [info]write adjust timer once
+2020-08-20 18:15:19.477233 [info]deal with the client(192.168.91.1)
+2020-08-20 18:15:19.477283 [info]read adjust timer once
+2020-08-20 18:15:19.477875 [info]send data to the client(192.168.91.1)
+2020-08-20 18:15:19.477916 [info]write adjust timer once
+2020-08-20 18:15:19.527606 [info]deal with the client(192.168.91.1)
+2020-08-20 18:15:19.527675 [info]read adjust timer once
+2020-08-20 18:15:19.528253 [info]send data to the client(192.168.91.1)
+2020-08-20 18:15:19.528323 [info]write adjust timer once
+2020-08-20 18:18:05.279037 [info]deal with the client(192.168.91.1)
+2020-08-20 18:18:05.279124 [info]read adjust timer once
+2020-08-20 18:18:05.279439 [info]send data to the client(192.168.91.1)
+2020-08-20 18:18:05.279493 [info]write adjust timer once
+2020-08-20 18:18:05.294138 [info]deal with the client(192.168.91.1)
+2020-08-20 18:18:05.294211 [info]read adjust timer once
+2020-08-20 18:18:05.294684 [info]send data to the client(192.168.91.1)
+2020-08-20 18:18:05.294733 [info]write adjust timer once
+2020-08-20 18:20:08.742466 [info]deal with the client(192.168.91.1)
+2020-08-20 18:20:08.742558 [info]read adjust timer once
+2020-08-20 18:20:08.743079 [info]send data to the client(192.168.91.1)
+2020-08-20 18:20:08.743119 [info]write adjust timer once
+2020-08-20 18:20:08.756834 [info]deal with the client(192.168.91.1)
+2020-08-20 18:20:08.756916 [info]read adjust timer once
+2020-08-20 18:20:08.757469 [info]send data to the client(192.168.91.1)
+2020-08-20 18:20:08.757533 [info]write adjust timer once
+2020-08-20 18:20:11.841066 [info]deal with the client(192.168.91.1)
+2020-08-20 18:20:11.841138 [info]read adjust timer once
+2020-08-20 18:20:11.846796 [info]send data to the client(192.168.91.1)
+2020-08-20 18:20:11.846881 [info]write adjust timer once
+2020-08-20 18:20:15.303412 [info]deal with the client(192.168.91.1)
+2020-08-20 18:20:15.303478 [info]read adjust timer once
+2020-08-20 18:20:15.303825 [info]send data to the client(192.168.91.1)
+2020-08-20 18:20:15.303867 [info]write adjust timer once
+2020-08-20 18:22:46.222727 [info]deal with the client(192.168.91.1)
+2020-08-20 18:22:46.222794 [info]read adjust timer once
+2020-08-20 18:22:46.223436 [info]send data to the client(192.168.91.1)
+2020-08-20 18:22:46.223500 [info]write adjust timer once
+2020-08-20 18:22:46.235318 [info]deal with the client(192.168.91.1)
+2020-08-20 18:22:46.235385 [info]read adjust timer once
+2020-08-20 18:22:46.235932 [info]send data to the client(192.168.91.1)
+2020-08-20 18:22:46.235998 [info]write adjust timer once
+2020-08-20 18:22:48.743656 [info]deal with the client(192.168.91.1)
+2020-08-20 18:22:48.743716 [info]read adjust timer once
+2020-08-20 18:22:48.744057 [info]send data to the client(192.168.91.1)
+2020-08-20 18:22:48.744087 [info]write adjust timer once
+2020-08-20 18:26:55.181891 [info]deal with the client(192.168.91.1)
+2020-08-20 18:26:55.181966 [info]read adjust timer once
+2020-08-20 18:26:55.182471 [info]send data to the client(192.168.91.1)
+2020-08-20 18:26:55.182509 [info]write adjust timer once
+2020-08-20 18:26:55.198710 [info]deal with the client(192.168.91.1)
+2020-08-20 18:26:55.198785 [info]read adjust timer once
+2020-08-20 18:26:55.199367 [info]send data to the client(192.168.91.1)
+2020-08-20 18:26:55.199422 [info]write adjust timer once
+2020-08-20 18:26:57.774933 [info]deal with the client(192.168.91.1)
+2020-08-20 18:26:57.774996 [info]read adjust timer once
+2020-08-20 18:26:57.775328 [info]send data to the client(192.168.91.1)
+2020-08-20 18:26:57.775391 [info]write adjust timer once
+2020-08-20 18:27:00.437783 [info]deal with the client(192.168.91.1)
+2020-08-20 18:27:00.437860 [info]read adjust timer once
+2020-08-20 18:27:00.438591 [info]send data to the client(192.168.91.1)
+2020-08-20 18:27:00.438648 [info]write adjust timer once
+2020-08-20 18:27:05.823011 [info]deal with the client(192.168.91.1)
+2020-08-20 18:27:05.823082 [info]read adjust timer once
+2020-08-20 18:27:05.823412 [info]send data to the client(192.168.91.1)
+2020-08-20 18:27:05.823442 [info]write adjust timer once
+2020-08-20 18:27:10.621729 [info]deal with the client(192.168.91.1)
+2020-08-20 18:27:10.621822 [info]read adjust timer once
+2020-08-20 18:27:10.622107 [info]send data to the client(192.168.91.1)
+2020-08-20 18:27:10.622153 [info]write adjust timer once
+2020-08-20 18:27:14.245437 [info]deal with the client(192.168.91.1)
+2020-08-20 18:27:14.245510 [info]read adjust timer once
+2020-08-20 18:27:14.245847 [info]send data to the client(192.168.91.1)
+2020-08-20 18:27:14.245887 [info]write adjust timer once
+2020-08-20 18:27:16.551000 [info]deal with the client(192.168.91.1)
+2020-08-20 18:27:16.551047 [info]read adjust timer once
+2020-08-20 18:27:16.551381 [info]send data to the client(192.168.91.1)
+2020-08-20 18:27:16.551424 [info]write adjust timer once
+2020-08-20 18:28:20.357639 [info]deal with the client(192.168.91.1)
+2020-08-20 18:28:20.357711 [info]read adjust timer once
+2020-08-20 18:28:20.358028 [info]send data to the client(192.168.91.1)
+2020-08-20 18:28:20.358069 [info]write adjust timer once
+2020-08-20 18:28:20.371654 [info]deal with the client(192.168.91.1)
+2020-08-20 18:28:20.371724 [info]read adjust timer once
+2020-08-20 18:28:20.372150 [info]send data to the client(192.168.91.1)
+2020-08-20 18:28:20.372198 [info]write adjust timer once
+2020-08-20 18:28:21.749577 [info]deal with the client(192.168.91.1)
+2020-08-20 18:28:21.749662 [info]read adjust timer once
+2020-08-20 18:28:21.750043 [info]send data to the client(192.168.91.1)
+2020-08-20 18:28:21.750088 [info]write adjust timer once
+2020-08-20 18:28:23.685530 [info]deal with the client(192.168.91.1)
+2020-08-20 18:28:23.685609 [info]read adjust timer once
+2020-08-20 18:28:23.686032 [info]send data to the client(192.168.91.1)
+2020-08-20 18:28:23.686072 [info]write adjust timer once
+2020-08-20 18:28:57.207775 [info]deal with the client(192.168.91.1)
+2020-08-20 18:28:57.207880 [info]read adjust timer once
+2020-08-20 18:28:57.208296 [info]send data to the client(192.168.91.1)
+2020-08-20 18:28:57.208343 [info]write adjust timer once
+2020-08-20 18:28:57.222151 [info]deal with the client(192.168.91.1)
+2020-08-20 18:28:57.222215 [info]read adjust timer once
+2020-08-20 18:28:57.222640 [info]send data to the client(192.168.91.1)
+2020-08-20 18:28:57.222680 [info]write adjust timer once
+2020-08-20 18:28:58.740932 [info]deal with the client(192.168.91.1)
+2020-08-20 18:28:58.741009 [info]read adjust timer once
+2020-08-20 18:28:58.741411 [info]send data to the client(192.168.91.1)
+2020-08-20 18:28:58.741482 [info]write adjust timer once
+2020-08-20 18:35:16.252621 [info]deal with the client(192.168.91.1)
+2020-08-20 18:35:16.252688 [info]read adjust timer once
+2020-08-20 18:35:16.253056 [info]send data to the client(192.168.91.1)
+2020-08-20 18:35:16.253111 [info]write adjust timer once
+2020-08-20 18:35:19.582690 [info]deal with the client(192.168.91.1)
+2020-08-20 18:35:19.582752 [info]read adjust timer once
+2020-08-20 18:35:19.583109 [info]send data to the client(192.168.91.1)
+2020-08-20 18:35:19.583171 [info]write adjust timer once
+2020-08-20 18:43:34.900554 [info]deal with the client(192.168.91.1)
+2020-08-20 18:43:34.900642 [info]read adjust timer once
+2020-08-20 18:43:34.901118 [info]send data to the client(192.168.91.1)
+2020-08-20 18:43:34.901177 [info]write adjust timer once
+2020-08-20 18:43:34.913967 [info]deal with the client(192.168.91.1)
+2020-08-20 18:43:34.914026 [info]read adjust timer once
+2020-08-20 18:43:34.914321 [info]send data to the client(192.168.91.1)
+2020-08-20 18:43:34.914356 [info]write adjust timer once
+2020-08-20 18:43:51.260804 [info]close fd 8
+2020-08-20 18:45:41.974468 [info]deal with the client(192.168.91.1)
+2020-08-20 18:45:41.974556 [info]read adjust timer once
+2020-08-20 18:45:41.974868 [info]send data to the client(192.168.91.1)
+2020-08-20 18:45:41.974924 [info]write adjust timer once
+2020-08-20 18:45:42.011702 [info]deal with the client(192.168.91.1)
+2020-08-20 18:45:42.011796 [info]read adjust timer once
+2020-08-20 18:45:42.012473 [info]send data to the client(192.168.91.1)
+2020-08-20 18:45:42.012707 [info]write adjust timer once
+2020-08-20 18:45:47.957689 [info]deal with the client(192.168.91.1)
+2020-08-20 18:45:47.957752 [info]read adjust timer once
+2020-08-20 18:45:47.958190 [info]send data to the client(192.168.91.1)
+2020-08-20 18:45:47.958232 [info]write adjust timer once
+2020-08-20 18:45:52.429058 [info]deal with the client(192.168.91.1)
+2020-08-20 18:45:52.429116 [info]read adjust timer once
+2020-08-20 18:45:52.429546 [info]send data to the client(192.168.91.1)
+2020-08-20 18:45:52.429587 [info]write adjust timer once
+2020-08-20 18:45:58.435031 [info]deal with the client(192.168.91.1)
+2020-08-20 18:45:58.435103 [info]read adjust timer once
+2020-08-20 18:45:58.435483 [info]send data to the client(192.168.91.1)
+2020-08-20 18:45:58.435533 [info]write adjust timer once
+2020-08-20 18:53:29.147178 [info]deal with the client(192.168.91.1)
+2020-08-20 18:53:29.147267 [info]read adjust timer once
+2020-08-20 18:53:29.147635 [info]send data to the client(192.168.91.1)
+2020-08-20 18:53:29.147676 [info]write adjust timer once
+2020-08-20 18:53:29.164604 [info]deal with the client(192.168.91.1)
+2020-08-20 18:53:29.164670 [info]read adjust timer once
+2020-08-20 18:53:29.165239 [info]send data to the client(192.168.91.1)
+2020-08-20 18:53:29.165295 [info]write adjust timer once
+2020-08-20 18:53:32.802483 [info]deal with the client(192.168.91.1)
+2020-08-20 18:53:32.802547 [info]read adjust timer once
+2020-08-20 18:53:32.802977 [info]send data to the client(192.168.91.1)
+2020-08-20 18:53:32.803017 [info]write adjust timer once
+2020-08-20 18:53:35.651225 [info]deal with the client(192.168.91.1)
+2020-08-20 18:53:35.651292 [info]read adjust timer once
+2020-08-20 18:53:35.651671 [info]send data to the client(192.168.91.1)
+2020-08-20 18:53:35.651735 [info]write adjust timer once

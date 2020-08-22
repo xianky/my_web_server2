@@ -1,0 +1,18 @@
+2020-08-22 00:00:37.311471 [info]deal with the client(192.168.91.1), port53650
+2020-08-22 00:00:37.311554 [info]read adjust timer once
+2020-08-22 00:00:37.312597 [info]send data to the client(192.168.91.1)
+2020-08-22 00:00:37.312655 [info]write adjust timer once
+2020-08-22 00:00:37.387623 [info]deal with the client(192.168.91.1), port53650
+2020-08-22 00:00:37.387694 [info]read adjust timer once
+2020-08-22 00:00:37.388434 [info]send data to the client(192.168.91.1)
+2020-08-22 00:00:37.388494 [info]write adjust timer once
+2020-08-22 00:00:53.571035 [info]close fd 16
+2020-08-22 00:03:34.016919 [info]deal with the client(192.168.91.1), port53704
+2020-08-22 00:03:34.017007 [info]read adjust timer once
+2020-08-22 00:03:34.017673 [info]send data to the client(192.168.91.1)
+2020-08-22 00:03:34.017720 [info]write adjust timer once
+2020-08-22 00:03:34.083771 [info]deal with the client(192.168.91.1), port53704
+2020-08-22 00:03:34.083846 [info]read adjust timer once
+2020-08-22 00:03:34.084487 [info]send data to the client(192.168.91.1)
+2020-08-22 00:03:34.084538 [info]write adjust timer once
+2020-08-22 00:03:53.139856 [info]close fd 16

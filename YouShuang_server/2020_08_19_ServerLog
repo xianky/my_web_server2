@@ -1,0 +1,23 @@
+2020-08-19 18:22:23.033358 [info]deal with the client(192.168.91.1)
+2020-08-19 18:22:23.033445 [info]read adjust timer once
+2020-08-19 18:22:23.036274 [info]send data to the client(192.168.91.1)
+2020-08-19 18:22:23.036399 [info]write adjust timer once
+2020-08-19 18:22:40.614903 [info]close fd 8
+2020-08-19 18:30:15.441332 [info]deal with the client(192.168.91.1)
+2020-08-19 18:30:15.441444 [info]read adjust timer once
+2020-08-19 18:30:15.443714 [info]send data to the client(192.168.91.1)
+2020-08-19 18:30:15.443780 [info]write adjust timer once
+2020-08-19 18:30:15.461083 [info]deal with the client(192.168.91.1)
+2020-08-19 18:30:15.461156 [info]read adjust timer once
+2020-08-19 18:30:15.462037 [info]send data to the client(192.168.91.1)
+2020-08-19 18:30:15.462102 [info]write adjust timer once
+2020-08-19 18:30:33.476238 [info]close fd 8
+2020-08-19 18:32:31.127611 [info]deal with the client(192.168.91.1)
+2020-08-19 18:32:31.127692 [info]read adjust timer once
+2020-08-19 18:32:31.128933 [info]send data to the client(192.168.91.1)
+2020-08-19 18:32:31.128981 [info]write adjust timer once
+2020-08-19 18:32:31.146226 [info]deal with the client(192.168.91.1)
+2020-08-19 18:32:31.146279 [info]read adjust timer once
+2020-08-19 18:32:31.146858 [info]send data to the client(192.168.91.1)
+2020-08-19 18:32:31.146903 [info]write adjust timer once
+2020-08-19 18:32:50.256539 [info]close fd 8
